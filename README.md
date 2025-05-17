@@ -1,28 +1,47 @@
-# BCG_GenAI_Financial_Simple_Chatbot
-This project is an AI-powered financial chatbot developed as part of a BCG GenAI consulting initiative. The chatbot is designed to analyze and extract key financial metrics and insights from corporate filings such as 10-K and 10-Q reports of major companies including Microsoft, Tesla, and Apple (2021–2023).
+# BCG GenAI Financial Chatbot Project
 
-
-An AI-powered financial chatbot developed for a BCG GenAI consulting project. This chatbot analyzes and responds to key financial queries by extracting and interpreting data from corporate filings like 10-K and 10-Q reports of Microsoft, Tesla, and Apple (2021–2023).
+This repository contains the project files and documentation for the **BCG GenAI Financial Chatbot**, developed as part of a consulting initiative. The chatbot analyzes financial data extracted from corporate filings such as 10-K and 10-Q reports of Microsoft, Tesla, and Apple (2021–2023).
 
 ---
 
-## Features
+## About This Project
 
-- **Manual Data Extraction & Analysis:** Processes financial data from SEC filings for accurate insights.
-- **Rule-Based Query Handling:** Uses rule-based logic to answer predefined financial questions.
-- **Multi-Company Support:** Supports financial data queries from multiple companies over several years.
-- **Focus on Key Financial Metrics:** Includes revenue, expenses, profit margins, cash flow, and more.
-- **Interactive Chat Interface:** Provides a user-friendly conversational interface.
+- The chatbot is designed to answer predefined financial queries by leveraging manually extracted financial data.
+- Instead of automated code scripts, this repository contains **PDF files** with extracted financial data, analysis reports, and related documentation.
+- These PDF files serve as the core data source and documentation for understanding the project’s financial insights.
 
 ---
 
-## Tech Stack
+## Contents of the Repository
 
-- Python
-- Rule-based logic systems
-- Data parsing and cleaning libraries
+- **Financial Data PDFs:** Extracted financial statements and metrics from SEC filings.
+- **Analysis Reports:** Detailed breakdown and interpretations of financial data.
+- **Project Documentation:** Explanation of methodology, chatbot design, and future scope.
 
 ---
 
-## Project Structure
+## How to Use
+
+- Review the PDF files to understand the financial data extracted and insights gained.
+- Use these documents as reference material for developing or enhancing chatbot logic.
+- The project’s chatbot logic can be implemented by leveraging the insights and data provided in these PDFs.
+
+---
+
+## Future Work
+
+- Automate extraction of financial data using NLP and OCR from original filings.
+- Develop a code-based chatbot interface to interactively answer financial queries.
+- Expand dataset with more companies and updated filings.
+.
+
+---
+
+## Contact
+
+For further questions or collaboration, please reach out at my Linkedin Profile : https://www.linkedin.com/in/akshad-goyanka-933563253/
+
+---
+
+*This repository contains static data and reports as PDFs. No executable code is included in this version.*
 
