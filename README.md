@@ -19,7 +19,6 @@ An AI-powered financial chatbot developed for a BCG GenAI consulting project. Th
 ## Tech Stack
 
 - Python
-- Natural Language Processing (NLP)
 - Rule-based logic systems
 - Data parsing and cleaning libraries
 
